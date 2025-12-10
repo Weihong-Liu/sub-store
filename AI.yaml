@@ -1,0 +1,74 @@
+# OpenAI / ChatGPT / Sora
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sora.com
+
+# Anthropic / Claude
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Google Gemini / Generative Language API (AI Studio / MakerSuite)
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+
+# Microsoft Copilot / GitHub Copilot / Bing Chat
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN,api.githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,sydney.bing.com
+
+# Azure AI (Foundry)
+DOMAIN-SUFFIX,ai.azure.com
+
+# Groq (GroqCloud)
+DOMAIN,api.groq.com
+DOMAIN,console.groq.com
+
+# Together AI
+DOMAIN,api.together.xyz
+
+# Mistral AI
+DOMAIN-SUFFIX,mistral.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# xAI (Grok)
+DOMAIN-SUFFIX,x.ai
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# Cursor (AI Code Editor)
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# JetBrains AI / Grazie
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# Statsig (Feature Flags / Experiment / Event logging)
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+
+# Intercom (客服/站内聊天/支持组件)
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+
+# Identity / Auth / Certificates
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,identrust.com
+
+# Anti-bot / Challenge (Arkose Labs)
+DOMAIN-SUFFIX,client-api.arkoselabs.com
