@@ -1,6 +1,7 @@
 # NAME: google ai
 
 DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,google
 DOMAIN,gemini.google.com
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
