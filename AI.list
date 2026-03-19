@@ -7,14 +7,6 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sora.com
 
-# Anthropic / Claude
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
-
 # Google Gemini / Generative Language API (AI Studio / MakerSuite)
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
